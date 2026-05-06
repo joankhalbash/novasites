@@ -26,3 +26,5 @@ Vigtigt: Slet ikke MX-records hos Simply, fordi `kontakt@novasites.dk` skal fort
 Formularen bruger Formspree endpoint:
 
 `https://formspree.io/f/xwvybjbv`
+
+Novasites website
